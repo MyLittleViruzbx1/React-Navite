@@ -6,5 +6,4 @@ const persona = {
     fechaNacimiento: 2014
 }
 
-
 console.log(persona.apelido);

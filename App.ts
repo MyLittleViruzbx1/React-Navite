@@ -7,4 +7,4 @@ const persona = {
 }
 
 
-console.log(persona.apelido);
+console.log(persona.primerApelido);
